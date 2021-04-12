@@ -9,6 +9,6 @@
 
 <p>
   <a href="">
-    <img src="https://badges.pufler.dev/visits/pandas-id/pandas-id?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/pandas-id/pandas-id?style=flat-square&color=ff0074&logo=github">
   </a>
 </p>
